@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I’m an incoming Informatics PhD student at Penn 
 
 Here you’ll find a mix of research projects, data science experiments, and personal coding work. Thanks for stopping by!
 
-# 💫 About Me:
+# 👩🏻‍💻 About Me:
 🔭 Exploring human-centered AI, visual analytics, and computational aesthetics  <br>🤝 Open to ML/HCI research collaborations  <br>🌱 Building skills in research engineering and end-to-end AI pipelines  <br>💬 Ask me about data science, visualization, or fencing
 
 
